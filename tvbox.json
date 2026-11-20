@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "jinying",
-      "name": "金鹰资源",
+      "key": "aidan",
+      "name": "艾旦资源",
       "type": 1,
-      "api": "http://jyzyapi.com/provide/vod/from/jinyingm3u8",
+      "api": "https://www.lovedan.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
@@ -13,25 +13,52 @@
       "key": "wujin",
       "name": "无尽资源",
       "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
     },
     {
-      "key": "maoyan",
-      "name": "猫眼资源",
+      "key": "zuidazy",
+      "name": "最大资源",
       "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "api": "http://zuidazy.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
     },
     {
-      "key": "s360",
+      "key": "baidu",
+      "name": "百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "360",
       "name": "360资源",
       "type": 1,
       "api": "https://360zyzz.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "jinying",
+      "name": "金鹰资源",
+      "type": 1,
+      "api": "http://jyzyapi.com/provide/vod/from/jinyingm3u8",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
@@ -55,33 +82,6 @@
       "filterable": 1
     },
     {
-      "key": "modu",
-      "name": "魔都资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "jisu",
-      "name": "极速资源",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "haohua",
-      "name": "豪华资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "guangsu",
       "name": "光速资源",
       "type": 1,
@@ -91,19 +91,55 @@
       "filterable": 1
     },
     {
-      "key": "baidu",
-      "name": "百度资源",
+      "key": "xigua",
+      "name": "西瓜资源",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://xiguazy.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
     },
     {
-      "key": "zuida",
-      "name": "最大资源",
+      "key": "modu",
+      "name": "魔都资源",
       "type": 1,
-      "api": "http://zuidazy.me/api.php/provide/vod",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "liangzi",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "dazhong",
+      "name": "大众影视",
+      "type": 1,
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "didi",
+      "name": "滴滴资源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "chuangxiang",
+      "name": "创享资源",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod/",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
